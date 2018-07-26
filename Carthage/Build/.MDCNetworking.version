@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.8.1",
+  "iOS" : [
+    {
+      "name" : "MDCNetworking",
+      "hash" : "c091fdbb37ccbc5da75f49eb0bf21f4e5229054771e43f3c0ed99ed0996a49ae"
+    }
+  ]
+}

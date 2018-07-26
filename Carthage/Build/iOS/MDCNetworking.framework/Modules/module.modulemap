@@ -1,0 +1,11 @@
+framework module MDCNetworking {
+  umbrella header "MDCNetworking.h"
+
+  export *
+  module * { export * }
+}
+
+module MDCNetworking.Swift {
+    header "MDCNetworking-Swift.h"
+    requires objc
+}
